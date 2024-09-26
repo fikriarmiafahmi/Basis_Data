@@ -1,0 +1,11 @@
+CREATE DATABASE Vitsmart;
+USE Vitsmart;
+SELECT * FROM Tabel_Vitsmart;
+SELECT * FROM pengguna;
+SELECT * FROM Analisis_Kesehatan;
+SELECT * FROM Kebutuhan_Makanan;
+SELECT * FROM Kebutuhan_Tidur;
+SELECT * FROM Kebutuhan_Aktivitas;
+SELECT * FROM Hobby;
+SELECT * FROM Olahraga;
+
